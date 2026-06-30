@@ -31,7 +31,7 @@ Then open `http://127.0.0.1:4173/`.
 
 The source code URL is set to the expected public release location. Raw results are currently linked through Baidu Netdisk:
 
-- `https://github.com/ymsun2020/ChatTracker`
+- `https://github.com/10225102484/Chattracker`
 - `https://pan.baidu.com/s/1e-cIfJJyFKq_UW28-a2efA?pwd=ae5c`
 - extraction code: `ae5c`
 
