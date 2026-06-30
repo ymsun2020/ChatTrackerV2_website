@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use ChatTracker, cite the relevant publication version."
+title: "ChatTracker"
+authors:
+  - family-names: Zhang
+    given-names: Yu
+  - family-names: Sun
+    given-names: Yiming
+  - family-names: Zhang
+    given-names: Mi
+  - family-names: Yu
+    given-names: Fan
+  - family-names: Chen
+    given-names: Shaoxiang
+  - family-names: Li
+    given-names: Yang
+  - family-names: Wang
+    given-names: Changbo
+  - family-names: Zhu
+    given-names: Jianke
+  - family-names: Hoi
+    given-names: Steven C. H.
+preferred-citation:
+  type: article
+  title: "ChatTracker: Enhancing Visual Tracking via LLM-Driven Iterative Description Refinement"
+  authors:
+    - family-names: Zhang
+      given-names: Yu
+    - family-names: Sun
+      given-names: Yiming
+    - family-names: Zhang
+      given-names: Mi
+    - family-names: Yu
+      given-names: Fan
+    - family-names: Chen
+      given-names: Shaoxiang
+    - family-names: Li
+      given-names: Yang
+    - family-names: Wang
+      given-names: Changbo
+    - family-names: Zhu
+      given-names: Jianke
+    - family-names: Hoi
+      given-names: Steven C. H.
+  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  year: 2026
+  doi: "10.1109/TPAMI.2026.3674357"
+identifiers:
+  - type: doi
+    value: "10.1109/TPAMI.2026.3674357"
+  - type: doi
+    value: "10.52202/079017-1241"
+  - type: url
+    value: "https://arxiv.org/abs/2411.01756"
